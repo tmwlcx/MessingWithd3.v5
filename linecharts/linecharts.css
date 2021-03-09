@@ -1,0 +1,15 @@
+    /* Basic styling with CSS */
+    
+.line {
+	fill: none;
+	stroke-width: 1.5;
+}
+
+.dot {
+    fill: #ffab00;
+    stroke: #fff;
+}
+
+@media print {
+  h1 {break-before: always;}
+}

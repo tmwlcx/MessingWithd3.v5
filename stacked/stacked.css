@@ -1,0 +1,15 @@
+html,
+body {
+margin: 0;
+}
+
+.line {
+fill: none;
+stroke-width: 3;
+}	
+
+body {
+	margin: auto;
+	width: 650px;
+	font: 12px segoe;
+}
